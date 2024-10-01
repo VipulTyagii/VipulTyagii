@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @VipulTyagi
 - 👀 I’m interested in Singing
 - 🌱 I’m currently learning what not to learn
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Social issues
 - 📫 Just Dm mee for any queries
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 VipulTyagii/VipulTyagii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
